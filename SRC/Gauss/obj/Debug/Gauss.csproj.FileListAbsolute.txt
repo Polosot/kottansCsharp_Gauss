@@ -1,0 +1,6 @@
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\bin\Debug\Gauss.exe.config
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\bin\Debug\Gauss.exe
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\bin\Debug\Gauss.pdb
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\obj\Debug\Gauss.csprojResolveAssemblyReference.cache
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\obj\Debug\Gauss.exe
+D:\coursera\C#\KOTTANS\Task03-Gauss\Gauss\Gauss\obj\Debug\Gauss.pdb
